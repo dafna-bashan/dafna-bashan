@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dafna</h1>
-<h3 align="center">A full stack / frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Dafna</h1>
+<h3 align="left">A full stack | frontend developer</h3>
 
 - Graduate of the Coding Academy Full Stack bootcamp.
 - Former coding instructor at Misterbit Technological Solutions.
-- I’m currently working on [chatterbox](https://github.com/dafna-bashan/chatterbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
