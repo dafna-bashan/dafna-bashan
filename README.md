@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dafna</h1>
-<h3 align="left">full stack | frontend developer</h3>
+<h3 align="left">Full Stack | Frontend Developer</h3>
 
 - Frontend / Full Stack Developer experienced in developing single-page applications using cutting-edge web technologies such as React, Redux, Angular, Node.js and MongoDB.
 - Former coding instructor at Misterbit Technological Solutions.
-- Graduate of the Coding Academy Full Stack bootcamp.
+- Graduate of the Coding Academy Full Stack Bootcamp.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
